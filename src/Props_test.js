@@ -7,7 +7,6 @@ function renderFood(dish) {
 
 }
 
-
 const foodLike = [
   {
     id: 1,
@@ -34,7 +33,6 @@ const foodLike = [
     rating: 5.0
   }
 ]
-
 
 function Food({ name, picture, rating }) {
 
